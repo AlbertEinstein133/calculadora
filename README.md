@@ -11,4 +11,7 @@ projeto de calculadora binaria e hexadecimal e decimal
 
 ```
  git clone https://github.com/AlbertEinstein133/calculadora.git
-```
+cauculadora.git
+```js
+   const teste = 1;
+   console.error
